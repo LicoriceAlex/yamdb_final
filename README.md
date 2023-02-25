@@ -42,3 +42,5 @@ docker-compose exec web python manage.py collectstatic --no-input
 ```
 ### Авторы
 LicoriceAlex
+### Workflow status
+![yamdb workflow](https://github.com/LicoriceAlex/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
